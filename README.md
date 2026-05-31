@@ -33,7 +33,7 @@ TIPO	Cat. Prg.	Descripción Cat. Prg.	Objeto	Descripcion Objeto Del Gasto	Presup
 #FINALIDAD#
 Al usar **SALDOS Obj** se obtendra partidas presupuestaria por objeto de gasto que pueden ser modificadas en la reformulaciones de los POAs dentro cada municipio, siguiendo los filtros de:
 1. Org financiadora
-2. Gastos recurrentes: 
-3. Gastos asignados por ley, eliminando las plabras clave:  'NIÑO' , 'NIÑEZ' , 'VIOLENCIA' , 'ZOONOSIS' , 'SEDES' , 'VIH' , 'CONTROL' , 'TRATA' , 'FELCV' , 'CAMBIO CL' , 'DRAGADO' , 'DESASTRE' , 'DISCAPACIDAD' , 'Dignidad' , 'ADULTO'
+2. Gastos recurrentes: Eliminando las categorias porgramaticas que contengan las plabras clave 'MANTENIMIENTO' , 'FUNCIONAMIENTO'
+3. Gastos asignados por ley:  Eliminando las categorias porgramaticas que contengan las plabras clave 'NIÑO' , 'NIÑEZ' , 'VIOLENCIA' , 'ZOONOSIS' , 'SEDES' , 'VIH' , 'CONTROL' , 'TRATA' , 'FELCV' , 'CAMBIO CL' , 'DRAGADO' , 'DESASTRE' , 'DISCAPACIDAD' , 'Dignidad' , 'ADULTO'
 
    
