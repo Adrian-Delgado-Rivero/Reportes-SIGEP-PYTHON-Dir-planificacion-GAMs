@@ -8,7 +8,8 @@ Ejecutar "Limpieza_inf_presupuestos" sobre dos tipos de informes descargados en 
 Ejecutar "Informe_presupuestario"  cargando el archivo sobre el que trabajr y el diccionario de datos
 Generarar diferentes pestañas en excel:
 (1) PRINCIPAL
--------------------------------------------------------------------------------------------------------------------------------------
+___________________________________
+------------------------------------------------------------------------------------------------------------------------------------
 |Entidad	|TIPO	|DA	|UE	|FTE	|Org.	|Cat. Prg.	|Descripción Cat. Prg.	|Objeto	|Descripcion Objeto Del Gasto|	Presupuesto Inicial|	Mod. Aprobadas|	Presup. Vig.|	Preventivo|	Compromiso	|Devengado	|Pagado	|Saldo Por Pagar	|Porcen.	|Saldo Deveng.	|Diferencia Vig-Prev |
 -------------------------------------------------------------------------------------------------------------------------------------
 
